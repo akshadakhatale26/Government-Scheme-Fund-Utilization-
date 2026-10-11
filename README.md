@@ -1,7 +1,7 @@
 # Government-Scheme-Fund-Utilization-
 ## 📌 Project Overview
 
-This project analyzes a **synthetic Government Scheme Fund Utilization dataset** containing 1,000 artificially generated records and 21 features. The project focuses on exploring fund allocation, fund releases, utilization, physical target achievement, and beneficiary coverage using Python, SQL, Power Query, and Power BI.
+This project analyzes a **synthetic Government Scheme Fund Utilization dataset** containing 1,000 artificially generated records and 21 features. The project focuses on exploring fund allocation, fund releases, utilization, physical target achievement, and beneficiary coverage using Python,Power Query, and Power BI.
 
 **Disclaimer:** This dataset is synthetic and does not represent actual government records, financial transactions, beneficiary data, or real-world scheme performance. All findings are for educational and portfolio demonstration purposes only.
 
@@ -103,4 +103,4 @@ The dataset and its numerical values are artificially generated for learning and
 
 ## 🎓 Purpose
 
-This project was created for educational purposes and to demonstrate practical skills in Python, SQL, ETL, data modeling, data visualization, and Power BI dashboard development.
+This project was created for educational purposes and to demonstrate practical skills in Python,ETL, data modeling, data visualization, and Power BI dashboard development.
